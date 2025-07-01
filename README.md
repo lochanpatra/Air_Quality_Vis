@@ -22,3 +22,4 @@ An interactive Streamlit web app that visualizes air quality data and predicts t
 
 ## 📁 click me
 
+https://lochanairquality.streamlit.app/
